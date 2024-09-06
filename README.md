@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
-##Screenshot
+## Screenshot
 ![Desctop](screenshots/desctop.png)
 ![!Mobile](screenshots/mobile.png)
 
